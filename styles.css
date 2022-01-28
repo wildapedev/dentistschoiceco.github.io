@@ -1,0 +1,74 @@
+#nav {
+    background-color: #1470cb;
+    font-family: 'KoHo', sans-serif;
+}
+
+#info-dets {
+    background-color: #618cb5;
+}
+
+body {
+    background-color: #eeeeee;
+    font-family: 'KoHo', sans-serif;
+}
+
+/* Text styling */
+
+#navlink {
+    font-size: 2rem;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+#letter {
+    font-size: 2rem;
+    line-height: 2;
+    font-weight: 400;
+    color: #000000;
+}
+
+#black-txt {
+    text-color: #000000;
+}
+
+h1.head {
+    font-size: 4rem;
+    line-height: 1.5;
+    font-weight: 600;
+}
+
+h1.lt {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    font-weight: 600;
+}
+
+
+p {
+    font-size: 2rem;
+    line-height: 1.5;
+    font-weight: 300;
+}
+
+/* Image & video handling */
+a.envelop {
+    font-size: 3rem;
+    color: #000000;
+    text-decoration:none;
+}
+
+img {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.img-fluid {
+    max-width: 100%;
+    max-height: 80%
+}
+
+.picborder {
+    background-color: #eeeeee;
+}
+
