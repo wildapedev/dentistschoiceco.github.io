@@ -1,2 +1,2 @@
 # dentistschoice.github.io
-Quick website for Colorado Springs Dentist Choice
+Quick website for Colorado Springs Dentist's Choice
